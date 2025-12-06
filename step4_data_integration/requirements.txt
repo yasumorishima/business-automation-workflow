@@ -1,0 +1,5 @@
+echo pandas^>=2.0.0
+echo gspread^>=5.0.0
+echo google-auth^>=2.0.0
+echo xlsxwriter^>=3.0.0
+echo openpyxl^>=3.1.0
