@@ -96,8 +96,7 @@ business-automation-workflow/
 │   ├── integrate_data.ipynb
 │   └── requirements.txt
 └── docs/
-    ├── setup_guide.md
-    └── troubleshooting.md
+    ├── image
 ```
 
 ## 🚀 クイックスタート
